@@ -14,6 +14,7 @@ ________________________________________________________________________________
    TANSTAAFL: There ain't no such thing as a free lunch.
    
    .-----------------------------------------------------------.
+   |                                                           |
    |  CURRENT SECTORS UNDER TERRAFORMATION:                    |
    |                                                           |
    |  > [PROJECT_01] : The Shimmer (Logic in the Uncanny)      |
